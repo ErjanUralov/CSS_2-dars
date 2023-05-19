@@ -1,0 +1,138 @@
+.wrap{
+    width: 1000px;
+    height: 300px;
+    border: 2px solid black;
+}
+.menu{
+    width: 900px;
+    height: 250px;
+
+    padding: 1px;
+    margin: 5px;
+    float: left;
+}
+
+.box1{
+    width: 100px;
+    height: 120px;
+    margin: 30px;
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    position: relative;
+}
+.manu2{
+    width: 100px;
+    height: 40px;
+    background: #15d253;
+    border-radius: 15%;
+    border: 0.5px solid #b2b2b2;
+    position: absolute;
+    bottom: 0;
+}
+.ggg{
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    background: white;
+    margin: 2px;
+    float: right;
+}
+
+.box2{
+    width: 100px;
+    height: 120px;
+    margin: 30px;
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    position: relative;
+}
+.manu4{
+    width: 100px;
+    height: 40px;
+    background: whitesmoke;
+    border-radius: 15%;
+    border: 0.5px solid #b2b2b2;
+    position: absolute;
+    bottom: 0;
+}
+.ggg2{
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    background: white;
+    margin: 2px;
+    border: 0.8px solid #b2b2b2;
+}
+
+.box3{
+    width: 100px;
+    height: 120px;
+    margin: 30px;
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    position: relative;
+}
+.manu6{
+    width: 100px;
+    height: 40px;
+    mso-page-scale: 30;
+    border: 0.5px solid #b2b2b2;
+    position: absolute;
+    bottom: 0;
+    background: #b2b2b2;
+}
+.ggg{
+    text-align: center;
+    color: white;
+}
+
+.box4{
+    width: 100px;
+    height: 120px;
+    margin: 30px;
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    position: relative;
+}
+.manu8{
+    width: 80px;
+    height: 30px;
+    background: white;
+    border-radius: 25%;
+    border: 0.5px solid #b2b2b2;
+    position: absolute;
+    bottom: 0;
+    margin: 10px;
+}
+.ggg4{
+    width: 35px;
+    height: 25px;
+    border-radius: 50px;
+    background: #b2b2b2;
+    margin: 2px;
+    float: right;
+}
+
+.box5{
+    width: 100px;
+    height: 120px;
+    margin: 30px;
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    position: relative;
+}
+.manu10{
+    width: 100px;
+    height: 45px;
+    background: #15d253;
+    border-radius: 10%;
+    border: 0.5px solid #b2b2b2;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}

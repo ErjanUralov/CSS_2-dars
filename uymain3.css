@@ -1,0 +1,180 @@
+.wrap {
+    width: 1200px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+    .big-box{
+        background: #6b6161;
+        width: 800px;
+        height: 500px; border: 1px solid black;
+        padding: 50px;
+        margin: 50px;
+        margin-left: 125px;
+        position: relative;
+
+    }
+
+.box1{
+    width: 150px;
+    height: 300px;
+    border: 1px solid black;
+    float: left;
+    transform: rotate(-50deg) ;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    z-index: 1;
+    text-align: center;
+    border-radius:8px ;
+    margin: 5px;
+    transition: all 0.5s;
+    background: white;
+
+}
+.manu1{
+    width: 90px;
+    height: 110px;
+    box-shadow: rgba(250,250,250,0.4) 20px 20px -10px 20px;
+    margin-left: 30px;
+    border: 1px solid black;
+    border-radius: 15%;
+    margin-top: -10px;
+    transition: all 0.5s;
+    text-align: center;
+    background-position: center center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2HM66eiI9Nm_kJxwnCEmZlOp_XRR492Xng&usqp=CAU");
+}
+.box1:hover{
+    transform: scale(1.2);
+    z-index: 4;
+}
+.box2{
+    width: 150px;
+    height: 300px;
+    transition: all 0.5s;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    transform: rotate(-25deg);
+    position: absolute;
+    top: 150px;
+    left: 230px;
+    z-index: 2;
+    border-radius: 8px;
+    background: white;
+
+}
+.manu3 {
+    width: 90px;
+    height: 110px;
+    border-radius: 15%;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: -10px;
+    text-align: center;
+    background-position: center center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0pF95339CdzJZ9A6O2uQ57jJweSt_fA_6Blxe6PjwLxdZPxEZHyvvGaRlpP-20VBuc0&usqp=CAU");
+}
+.box2:hover{
+    transform: scale(1.2);
+    box-shadow: rgba(250,250,250,0.4) 20px 20px -10px 20px;
+    z-index: 4;
+}
+
+.box3{
+    width: 150px;
+    height: 300px;
+    transition: all 0.5s;
+    border: 1px solid black;
+    border-radius: 8px;
+    float: left;
+    transform: rotate(0deg);
+    position: absolute;
+    top: 150px;
+    left: 260px;
+    z-index:3;
+    text-align: center;
+    background: white;
+}
+.manu5{
+    width: 90px;
+    height: 110px;
+    border-radius: 15%;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: -10px;
+    text-align: center;
+    background-position: center center;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzySO8TACxxZVykdof7q6tJYrA8c_XfgGV8w&usqp=CAU");
+}
+.box3:hover{
+    transform: scale(1.2);
+    z-index: 4;
+    box-shadow: rgba(250,250,250,0.4) 20px 20px -10px 20px;
+}
+
+.box4{
+    width: 150px;
+    height: 300px;
+    border: 1px solid black;
+    float: left;
+    transform: rotate(25deg);
+    position: absolute;
+    top: 150px;
+    transition: all 0.5s;
+    left: 290px;
+    z-index: 2;
+    text-align: center;
+    border-radius: 8px;
+    background: white;
+}
+.manu7{
+    width: 90px;
+    height: 110px;
+    border-radius: 15%;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: -10px;
+    text-align: center;
+    background-position: center center;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgruj3AC8ArdAvTc0ElslW3Xwor51ggAlkDg&usqp=CAU");
+}
+.box4:hover{
+    transform: scale(1.2);
+    z-index: 4;
+    box-shadow: rgba(250,250,250,0.4) 20px 20px -10px 20px;
+}
+
+.box5{
+    width: 150px;
+    height: 300px;
+    border: 1px solid black;
+    float: left;
+    transition: all 0.5s;
+    transform: rotate(50deg) ;
+    position: absolute;
+    top: 150px;
+    left: 320px;
+    z-index: 1;
+    text-align: center;
+    border-radius: 8px;
+    background: white;
+}
+.manu9{
+    width: 90px;
+    height: 110px;
+    border-radius: 15%;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: -10px;
+    text-align: center;
+    background-position: center center;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQd2EnighFupGPLH62oGsOj5ZhDzNKBflp7Q&usqp=CAU");
+}
+.box5:hover{
+    transform: scale(1.2);
+    z-index: 4;
+    box-shadow: rgba(250,250,250,0.4) 20px 20px -10px 20px;
+}
